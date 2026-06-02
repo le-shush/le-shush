@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Jesus Mondragon Ortiz</h1>
 <h3 align="center">An Architect from Tecnologico de Monterrey currently undergoing the Tec-edx Coding Bootcamp!</h3>
 
-- 🌱 I’m currently learning **React, Vite, Framer and how to make AIs!**
+- 🌱 Full-Stack Bootcamp completed learning **React, Vite, Framer and how to make AIs!**
 
 - 📫 How to reach me **jesus.mondragon@myucelium.studio**
 
-- ⚡ Fun fact **I am a musician with over 22 years of experience and 2 published songs!**
+- ⚡ Fun fact **I am a musician with over 24 years of experience, 6 published songs and an Album on the way!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
