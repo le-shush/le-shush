@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jesus Mondragon Ortiz</h1>
-<h3 align="center">An Architect from Tecnologico de Monterrey currently undergoing the Tec-edx Coding Bootcamp!</h3>
+<h3 align="center">An Architect from Tecnologico de Monterrey who coursed the Tec-edx Coding Bootcamp!</h3>
 
 - 🌱 Full-Stack Bootcamp completed learning **React, Vite, Framer and how to make AIs!**
 
